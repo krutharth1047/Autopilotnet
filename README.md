@@ -8,9 +8,6 @@ This repository uses Convolutional Neural Networks to predict steering angle acc
 
 |[Dataset](https://github.com/SullyChen/driving-datasets)|
 
-### 🧠 Main Credits
-**This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21)**
-
 ### 🛠 Output
 <img src="https://github.com/snehitvaddi/SelfDriving-Car_Deep-Learning/blob/master/Selfdriving-output.gif" width="300" height="300">
 
