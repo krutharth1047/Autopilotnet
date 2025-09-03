@@ -1,13 +1,12 @@
-## Self Driving Car
+## 🛣 DriveAI – clean, simple, AI-powered driving
 Project Autopilot helps in getting the angle of steering rotation in a self-driving car. This project is inspired by <b>NVIDIA End to End Learning for Self-Driving Cars</b> and data is gathered from <b>Udacity's Behavioral Cloning repository</b>. It is written in Python and leveraged Keras for Deep Learning functions. 
 
 The End to End Learning for Self-Driving Cars research paper can be found in the below table.
 This repository uses Convolutional Neural Networks to predict steering angle according to the road. 
 
-| 🗃 Dataset | 📑 Original Paper | 💡 Inspiration | 📌 Data Reference |
+| 🗃 Dataset | 
 |:-:|:-:|:-:|:-:|
-|[Dataset](https://github.com/SullyChen/driving-datasets)|[Paper](https://arxiv.org/abs/1604.07316)|[NVIDIA Self-driving](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)|[Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3)|
-
+|[Dataset](https://github.com/SullyChen/driving-datasets)|
 #### Note: 
 💡 **I have made implementation code `AutopilotApp_V2.py` private to avoid misuse, feel free to contact me @v.snehith999@gmail.com to buy complete directory ✌**<br>
 🔑 **If you're looking any Btech/Mtech/Academic projects? Ping me, I have a bunch**
@@ -40,13 +39,6 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
 Use the `pip install -r requirements.txt` command to install packages in one go.
 You can also use conda to get rid of any version problems.
 
- ### 📢 Note:
- If you have a specific request or have an idea of better implementation, ping me:<br>
-<b>@LinkedIn:</b> [Snehit Vaddi](https://www.linkedin.com/in/snehitvaddi/)<br>
-<b>@Email:</b> (v.snehith999@gmail.com) 
-
-<br>
-If you face any problem, kindly raise an issue
 
 ### 🔗 References:
  - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
