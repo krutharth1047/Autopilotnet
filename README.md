@@ -5,11 +5,8 @@ The End to End Learning for Self-Driving Cars research paper can be found in the
 This repository uses Convolutional Neural Networks to predict steering angle according to the road. 
 
 | 🗃 Dataset | 
-|:-:|:-:|:-:|:-:|
+
 |[Dataset](https://github.com/SullyChen/driving-datasets)|
-#### Note: 
-💡 **I have made implementation code `AutopilotApp_V2.py` private to avoid misuse, feel free to contact me @v.snehith999@gmail.com to buy complete directory ✌**<br>
-🔑 **If you're looking any Btech/Mtech/Academic projects? Ping me, I have a bunch**
 
 ### 🧠 Main Credits
 **This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21)**
